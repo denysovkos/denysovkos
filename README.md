@@ -1,6 +1,6 @@
 
 <h2>Hey 👋, I'm <a href="https://denysov.me/">I'm Kostiantyn</a> 👋</h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.pixsy.com/">Pixsy</a></strong> and formerly at <strong><a href="https://sonect.net/">Sonect</a></strong> based in Switzerland.</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.join.com/">Join</a></strong>, formerly at <strong><a href="https://www.pixsy.com/">Pixsy</a></strong> and <strong><a href="https://sonect.net/">Sonect</a></strong> based in Switzerland.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/denysovkos?style=social)](https://github.com/denysovkos)
 [![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kostyantyn-denysov-6a889889/)
