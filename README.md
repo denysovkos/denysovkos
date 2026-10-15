@@ -1,42 +1,50 @@
+<div align="center">
 
-<h2>Hey 👋, I'm <a href="https://denysov.me/">I'm Kostiantyn</a> 👋</h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.join.com/">Join</a></strong>, formerly at <strong><a href="https://www.pixsy.com/">Pixsy</a></strong> and <strong><a href="https://sonect.net/">Sonect</a></strong> based in Switzerland.</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Kostiantyn+%F0%9F%91%8B;Tech+Lead+%40+Deel;Node.js+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Kubernetes" alt="Typing intro" />
 
-[![GitHub followers](https://img.shields.io/github/followers/denysovkos?style=social)](https://github.com/denysovkos)
-[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kostyantyn-denysov-6a889889/)
+<p>
+  <a href="https://denysov.me/"><img src="https://img.shields.io/badge/denysov.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/kostyantyn-denysov-6a889889/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://denysov.me/denysov_k_cv.pdf"><img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/denysovkos"><img src="https://img.shields.io/github/followers/denysovkos?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="GitHub followers" /></a>
+</p>
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on reverse image search algorithms.</li>
-<li>🧐 Actively using <strong>distributed computing</strong>, <strong>databases</strong>, etc.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/denysovkos">Github</a>.</li>
-<li>💬 Ping me about <strong>js/ts, nodejs, go, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://denysov.me/denysov_k_cv.pdf">resume</a>.</li>
-</ul>
+</div>
+
+---
+
+### 👨‍💻 About me
+
+Tech Lead at **[Deel](https://www.deel.com/)**, based in **Berlin** 🇩🇪. I build and scale backend platforms: distributed services, data-heavy systems and the cloud infrastructure underneath them.
+
+Previously at [Join](https://join.com/), [Pixsy](https://www.pixsy.com/) (reverse image search at scale) and [Sonect](https://sonect.net/).
+
+```yaml
+role:      Tech Lead @ Deel
+location:  Berlin, Germany
+focus:     [backend architecture, distributed systems, platform engineering]
+languages: [TypeScript, Go]
+ask_me:    [Node.js, Go, Kubernetes, cloud, system design]
+```
+
+### 🛠️ Tech stack
 
 <p align="left">
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/postgresql.svg" alt="postgres" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,nginx&theme=dark" alt="Infrastructure" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,angular&theme=dark" alt="Frontend" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=denysovkos&show_icons=true&count_private=true" alt="denysovkos" />
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=denysovkos&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denysovkos&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF" alt="Top languages" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Open to interesting conversations about backend, infra and engineering leadership. Say hi on <a href="https://www.linkedin.com/in/kostyantyn-denysov-6a889889/">LinkedIn</a>.</sub>
+</div>
